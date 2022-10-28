@@ -1,0 +1,26 @@
+| Nama          | Nia Dwi Rahayu |
+|-------------- | ---------------|
+| NIM           | 312010298      |
+| Kelas         | TI.20.A2       |
+| Matkul        | Kriptografi    |
+
+Enter key TEKNIK INFORMATIKA
+
+ 1.Encryption  
+ 2.Decryption: 
+ 3.EXIT 1      
+ENTER MSG:GOOD BROOM SWEEP CLEAN
+CIPHER TEXT: CM RC DF RW RI PY KW OW BP  C KY 
+ 1.Encryption 
+ 2.Decryption: 
+ 3.EXIT 1
+ENTER MSG:REDWOOD NATIONAL STATE PARK
+CIPHER TEXT: OK CX RW RC  G  F ME BH LN B  OW DI RK 
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT 1
+ENTER MSG:JUNK FOOD AND HEALTH PROBLEMS
+CIPHER TEXT: A   N OR RC G  AQ  C VF LQ MR LV NO QY 
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT
