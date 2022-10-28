@@ -10,8 +10,6 @@ Enter key TEKNI INFORMATIKAK
  2.Decryption: 
  3.EXIT1       
 ENTER MSG:GOOD BROOM SWEEP CLEAN
-
-
 CIPHER TEXT: CM RC DF RW RI PY KW OW BP  C KY 
  1.Encryption 
  2.Decryption: 
